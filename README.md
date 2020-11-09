@@ -1,3 +1,7 @@
+# Marlin-E3-Latest
+Custom Marlin 2.0.x for Stock Ender 3
+
+
 # Marlin 3D Printer Firmware
 
 ![GitHub](https://img.shields.io/github/license/marlinfirmware/marlin.svg)
